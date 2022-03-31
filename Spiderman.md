@@ -45,3 +45,10 @@ AND...
 - Name: Edward Charles Allan "Eddie" Brock
 - actor: Tom Hardy
 - director: Ruben Samuel Fleischer
+
+# Venom: Let There Be Carnage
+- Year: 2021
+- Name: Edward Charles Allan "Eddie" Brock
+- actor: Tom Hardy
+- director: Andy Serkis
+
