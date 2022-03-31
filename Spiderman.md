@@ -13,3 +13,7 @@
 #Avengers:Endgame
 -Year:2019
 -Name:PeterBenjaminParker
+
+#Spider-Man:FarFromHome
+-Year:2019
+-Name:PeterBenjaminParker
