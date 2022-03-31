@@ -37,3 +37,11 @@
 # Spider-Man:FarFromHome
 -Year:2019
 -Name:PeterBenjaminParker
+
+AND...
+
+# Venom
+- Year: 2018
+- Name: Edward Charles Allan "Eddie" Brock
+- actor: Tom Hardy
+- director: Ruben Samuel Fleischer
